@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Python Turtle)
+# 🐍 Snake Game (Python Using Turtle Module)
 
 A classic Snake game built with Python using the Turtle graphics library. Simple, fun, and a great beginner-friendly project!
 
